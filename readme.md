@@ -1,6 +1,6 @@
 # Math Quiz Website
 
-Hosted on [GitHub Pages](https://viggostrom.github.io/mathQuiz/).
+Hosted on [GitHub Pages](https://VenaStrom.github.io/mathQuiz/).
 
 ![Screenshot](screenshots/main-page.png)
 ![Screenshot](screenshots/a-question.png)
